@@ -1,0 +1,22 @@
+#Bb PackageInfo Property File
+#Tue Mar 25 11:30:47 EDT 2014
+java.class.path=/usr/local/blackboard/apps/service-wrapper/lib/wrapper.jar\:/usr/local/blackboard/jdk/lib/tools.jar\:/usr/local/blackboard/system/build/clover-ant/lib/clover.jar\:/usr/local/blackboard/apps/tomcat/bin/bootstrap.jar\:/usr/local/blackboard/apps/tomcat/lib/bb-tomcat-bootstrap.jar\:/usr/local/blackboard/apps/tomcat/bin/tomcat-juli.jar
+cx.config.course.id=gt_fcc101
+java.vendor=Oracle Corporation
+os.name=Linux
+os.arch=amd64
+java.home=/usr/local/blackboard/jdk/jre
+db.product.name=Oracle
+cx.package.info.version=6.0
+os.version=2.6.18-164.10.1.el5
+cx.config.full.value=CxConfig{operation\=EXPORT, courseid\=gt_fcc101, package\=/usr/local/blackboard/content/vi/BBLEARN/courses/1/gt_fcc101/archive/ExportFile_gt_fcc101_20140325113037.zip, logger\=CxLogger{logs\=[Log{name\=/usr/local/blackboard/content/vi/BBLEARN/courses/1/gt_fcc101/archive/ExportFile_gt_fcc101_20140325113037.txt, verbosity\=default}, Log{name\=/usr/local/blackboard/content/vi/BBLEARN/courses/1/gt_fcc101/archive/ExportFile_gt_fcc101_20140325113037_detailed.txt, verbosity\=debug}], logHooks\=[blackboard.apps.cx.CxQueuedOperation@6e0a9ad2]}, resource_type_inclusions\=[], area_inclusions\=[], area_exclusions\=[], object_inclusions\={COURSETOC\=[_2139996_1, _2139997_1, _2139995_1]}, object_exclusions\={}, features\={ImportCourseStructure\=false, AlternateAssessmentCsLinks\=false, CreateOrg\=false, ArchiveUserPasswords\=false, Bb5LinkToBrokenImageFix\=true}, strHostName\=www.coursesites.com, isCommandLineRequest\=false, isCourseConversion\=false, eventHandlers\=[]}
+cx.config.package.name=/usr/local/blackboard/content/vi/BBLEARN/courses/1/gt_fcc101/archive/ExportFile_gt_fcc101_20140325113037.zip
+db.product.version=Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production\nWith the Partitioning, OLAP, Data Mining and Real Application Testing options
+db.driver.name=Oracle JDBC driver
+cx.config.operation=blackboard.apps.cx.CxConfig$Operation\:EXPORT
+java.version=1.7.0_45
+cx.config.package.identifier=d1337360b7c349c48dadce7e549304c1
+db.driver.version=11.2.0.2.0
+java.default.locale=en_US
+app.release.number=9.1.140152.0
+cx.config.logs=[Log{name\=/usr/local/blackboard/content/vi/BBLEARN/courses/1/gt_fcc101/archive/ExportFile_gt_fcc101_20140325113037.txt, verbosity\=default}, Log{name\=/usr/local/blackboard/content/vi/BBLEARN/courses/1/gt_fcc101/archive/ExportFile_gt_fcc101_20140325113037_detailed.txt, verbosity\=debug}]
